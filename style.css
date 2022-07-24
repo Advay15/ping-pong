@@ -1,0 +1,41 @@
+body
+{
+background-image: "background1.jpg";
+}
+.heading {
+    font-size: 23px;
+    color: aliceblue;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    background: linear-gradient(to right, blue, black);
+    text-align: left;
+}
+
+#start , #retry {
+    font-size: 23px;
+}
+
+#status {
+    font-size: 23px;
+    width: 20%;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+#instructionsButton {
+    float: right;
+    border: 1px solid white;
+    color: black;
+}
+
+h4 {
+    background-color: aliceblue;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog {
+    width: 90%;
+}
